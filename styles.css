@@ -127,6 +127,13 @@ h3 {
         margin: 40px auto;
     }
 
+    .heart {
+        width: 26px;
+        position: absolute;
+        z-index: 1;
+        margin: 20px 0 0 -280px;
+    }
+
     .github-image {
         width: 110px;
         height: 50px;
@@ -134,10 +141,10 @@ h3 {
     }
 
     .card {
-        width: 450px;
+        width: 350px;
     }
 
     .background {
-        width: 450px;
+        width: 350px;
     }
 }
